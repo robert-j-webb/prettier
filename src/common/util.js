@@ -852,5 +852,6 @@ module.exports = {
   printString,
   printNumber,
   hasIgnoreComment,
-  hasNodeIgnoreComment
+  hasNodeIgnoreComment,
+  lineColumnToIndex
 };

@@ -875,6 +875,7 @@ $lg-and-up: '(min-width: 1200px)';
 @media #{$value} {}
 
 @import url(#{$foundation-dir}/foundation/components/grid);
+@import url(https://prettier-fonts.com/css?family=Prettier+Sans&size=500,400,300,1000,600);
 
 @keyframes loader {
   0% {
@@ -1829,6 +1830,13 @@ $lg-and-up: "(min-width: 1200px)";
 }
 
 @import url(#{$foundation-dir}/foundation/components/grid);
+@import url(
+  https://prettier-fonts.com/css?family=Prettier + Sans&size=500,
+  400,
+  300,
+  1000,
+  600
+);
 
 @keyframes loader {
   0% {
@@ -2903,6 +2911,7 @@ $lg-and-up: '(min-width: 1200px)';
 @media #{$value} {}
 
 @import url(#{$foundation-dir}/foundation/components/grid);
+@import url(https://prettier-fonts.com/css?family=Prettier+Sans&size=500,400,300,1000,600);
 
 @keyframes loader {
   0% {
@@ -3857,6 +3866,13 @@ $lg-and-up: "(min-width: 1200px)";
 }
 
 @import url(#{$foundation-dir}/foundation/components/grid);
+@import url(
+  https://prettier-fonts.com/css?family=Prettier + Sans&size=500,
+  400,
+  300,
+  1000,
+  600
+);
 
 @keyframes loader {
   0% {
